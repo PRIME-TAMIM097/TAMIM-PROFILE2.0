@@ -1,6 +1,12 @@
 {
   "plugins": [
     "downloader.js",
-    "weather.js"
+    "weather.js",
+    "lyrics.js",
+    "currency.js",
+    "qrcode.js",
+    "texttools.js",
+    "agecalc.js",
+    "dictionary.js"
   ]
 }
