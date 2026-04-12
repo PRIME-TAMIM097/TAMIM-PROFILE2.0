@@ -8,6 +8,7 @@
     "texttools.js",
     "agecalc.js",
     "dictionary.js",
-    "imageenhancer.js"
+    "imageenhancer.js",
+    "ai.js"
   ]
 }
